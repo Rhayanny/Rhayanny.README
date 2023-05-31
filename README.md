@@ -6,6 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhayanny&show_icons=true&theme=radical)
 
+<h4>linguagens:</h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rhay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +15,7 @@
 <!--   <img align="rigth" alt="Rhay" src=""> -->
 
  ##
- 
+ <h4>Contato:</h4>
 <div> 
   <a href="https://www.instagram.com/rhaay___/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rhayannyrodrigues71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
