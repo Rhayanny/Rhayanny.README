@@ -1,18 +1,19 @@
 
 <h3>Oiii, eu sou a Rhayanny Rodrigues!</h3>
 
-- 🌱 Estudando Front-end .
-
-
+##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhayanny&show_icons=true&theme=radical)
 
+- 🌱 Fullstack em formação.
+
+##
 <h4>linguagens:</h4>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rhay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rhay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rhay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rhay" height="155" width="155"  src="download20230502222211.png">
+  <img align="right" alt="Rhay" height="180" width="200"  src="Euzinha.png">
   
  ##
   
