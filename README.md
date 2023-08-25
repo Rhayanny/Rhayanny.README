@@ -6,12 +6,14 @@
 - 🌱 Fullstack em formação.
 
 ##
-<h3>🌍 Linguagens:</h3>
+<h3>👩🏻‍💻 Linguagens:</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rhay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rhay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rhay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Rhay-React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+   <img align="center" alt="Rhay-SCSS" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
   <img align="right" alt="Rhay" height="120" width="120"  src="Euzinha.png">
   
  ##
