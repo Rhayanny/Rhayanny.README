@@ -2,7 +2,6 @@
 <h3>Oiii, eu sou a Rhayanny Rodrigues!</h3>
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhayanny&show_icons=true&theme=radical)
 
 - 🌱 Fullstack em formação.
 
@@ -21,5 +20,9 @@
 <div> 
   <a href="https://www.instagram.com/rhaay___/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rhayannyrodrigues71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rhayanny-rodrigues-55857222b/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/rhayanny-rodrigues-55857222b/)](https://www.linkedin.com/in/rhayanny-rodrigues-76b23728a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhayanny&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhayanny&show_icons=true&theme=radical)
