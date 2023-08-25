@@ -1,12 +1,12 @@
 
-<h3>Oiii, eu sou a Rhayanny Rodrigues!</h3>
+<h3>Oiii, eu sou a Rhayanny Rodrigues! 😊</h3>
 
 ##
 
 - 🌱 Fullstack em formação.
 
 ##
-<h4>linguagens:</h4>
+<h3>🌍 Linguagens:</h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rhay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,7 +16,7 @@
   
  ##
   
- <h4>Contato:</h4>
+ <h3>📞 Contato:</h3>
 <div> 
   <a href="https://www.instagram.com/rhaay___/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rhayannyrodrigues71@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
