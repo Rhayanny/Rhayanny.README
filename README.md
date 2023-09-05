@@ -30,7 +30,27 @@
 </div>
 
 ##
-
 <h3>📊 GitHub Stats:</h3>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhayanny&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhayanny&show_icons=true&theme=radical)
+<table align="center">
+  <tr>
+    <td width="55%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Rhayanny&show_icons=true&theme=radical&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Rhayanny&bg_color=ffffff00&hide_border=true&show_icons=true&count_private=true&layout=compact&locale=pt-br" alt="" align="center" width="100%" />
+      </picture>
+      <br></br>
+<!--       <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?username=Rhayanny&show_icons=true&theme=radical&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?username=Rhayanny&background=ffffff00&hide_border=true&no-frame=true&locale=pt-br" alt="" align="center" width="100%" />
+      </picture> -->
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Rhayanny&show_icons=true&theme=radical&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs?username=Rhayanny&bg_color=ffffff00&hide_border=true&no-frame=true&langs_count=6&locale=pt-br" alt="" align="center" width="100%"/>
+      </picture>
+    </td>
+  </tr>
+</table>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhayanny&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhayanny&show_icons=true&theme=radical) -->
